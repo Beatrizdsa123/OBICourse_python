@@ -46,11 +46,11 @@ print("Python" in texto)
 #13 contar quantas vezes algo aparece
 print(texto.count("!"))
 
-#14
-#15
-#16
-#17
-#18
+#14 find
+#15 endswitch
+#16 startswitch
+#17 isalpha
+#18 join
 #19
 #20 juntar lista de strings
 string = texto.split(" ")
