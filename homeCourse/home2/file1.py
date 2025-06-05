@@ -60,7 +60,7 @@ for caracter in frase:
     print(caracter)
 
 #exemplo5
-numero = [1,2,3,4,5]
+numeros = [1,2,3,4,5]
 
 for numero in numeros:
     print(numero)
